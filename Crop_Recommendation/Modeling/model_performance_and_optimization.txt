@@ -1,0 +1,201 @@
+[+] Model Performance
+Parameter 1. n_estimators: 1
+* Split 1 test Score: 93.18 %
+* Split 2 test Score: 94.6 %
+* Split 3 test Score: 93.75 %
+* Split 4 test Score: 94.89 %
+* Split 5 test Score: 95.74 %
+* Average test Score: 94.43 %
+
+
+Parameter 2. n_estimators: 2
+* Split 1 test Score: 90.91 %
+* Split 2 test Score: 94.03 %
+* Split 3 test Score: 95.45 %
+* Split 4 test Score: 95.17 %
+* Split 5 test Score: 96.31 %
+* Average test Score: 94.37 %
+
+
+Parameter 3. n_estimators: 3
+* Split 1 test Score: 97.44 %
+* Split 2 test Score: 98.3 %
+* Split 3 test Score: 97.73 %
+* Split 4 test Score: 98.3 %
+* Split 5 test Score: 98.01 %
+* Average test Score: 97.96 %
+
+
+Parameter 4. n_estimators: 4
+* Split 1 test Score: 96.02 %
+* Split 2 test Score: 99.15 %
+* Split 3 test Score: 98.3 %
+* Split 4 test Score: 98.86 %
+* Split 5 test Score: 98.3 %
+* Average test Score: 98.13 %
+
+
+Parameter 5. n_estimators: 5
+* Split 1 test Score: 97.16 %
+* Split 2 test Score: 99.43 %
+* Split 3 test Score: 97.73 %
+* Split 4 test Score: 98.86 %
+* Split 5 test Score: 98.3 %
+* Average test Score: 98.3 %
+
+
+Parameter 6. n_estimators: 6
+* Split 1 test Score: 96.59 %
+* Split 2 test Score: 100.0 %
+* Split 3 test Score: 98.01 %
+* Split 4 test Score: 98.58 %
+* Split 5 test Score: 99.15 %
+* Average test Score: 98.47 %
+
+
+Parameter 7. n_estimators: 7
+* Split 1 test Score: 97.73 %
+* Split 2 test Score: 99.72 %
+* Split 3 test Score: 98.3 %
+* Split 4 test Score: 99.72 %
+* Split 5 test Score: 99.43 %
+* Average test Score: 98.98 %
+
+
+Parameter 8. n_estimators: 8
+* Split 1 test Score: 97.44 %
+* Split 2 test Score: 99.72 %
+* Split 3 test Score: 98.3 %
+* Split 4 test Score: 99.72 %
+* Split 5 test Score: 99.43 %
+* Average test Score: 98.92 %
+
+
+Parameter 9. n_estimators: 9
+* Split 1 test Score: 97.16 %
+* Split 2 test Score: 99.72 %
+* Split 3 test Score: 98.3 %
+* Split 4 test Score: 100.0 %
+* Split 5 test Score: 99.43 %
+* Average test Score: 98.92 %
+
+
+Parameter 10. n_estimators: 10
+* Split 1 test Score: 97.44 %
+* Split 2 test Score: 99.72 %
+* Split 3 test Score: 98.3 %
+* Split 4 test Score: 99.72 %
+* Split 5 test Score: 99.72 %
+* Average test Score: 98.98 %
+
+
+Parameter 11. n_estimators: 11
+* Split 1 test Score: 97.73 %
+* Split 2 test Score: 100.0 %
+* Split 3 test Score: 98.86 %
+* Split 4 test Score: 100.0 %
+* Split 5 test Score: 99.72 %
+* Average test Score: 99.26 %
+
+
+Parameter 12. n_estimators: 12
+* Split 1 test Score: 98.3 %
+* Split 2 test Score: 100.0 %
+* Split 3 test Score: 99.15 %
+* Split 4 test Score: 100.0 %
+* Split 5 test Score: 99.72 %
+* Average test Score: 99.43 %
+
+
+Parameter 13. n_estimators: 13
+* Split 1 test Score: 98.01 %
+* Split 2 test Score: 100.0 %
+* Split 3 test Score: 99.43 %
+* Split 4 test Score: 99.72 %
+* Split 5 test Score: 99.72 %
+* Average test Score: 99.38 %
+
+
+Parameter 14. n_estimators: 14
+* Split 1 test Score: 98.58 %
+* Split 2 test Score: 100.0 %
+* Split 3 test Score: 99.43 %
+* Split 4 test Score: 99.72 %
+* Split 5 test Score: 99.72 %
+* Average test Score: 99.49 %
+
+
+Parameter 15. n_estimators: 15
+* Split 1 test Score: 98.58 %
+* Split 2 test Score: 99.72 %
+* Split 3 test Score: 99.15 %
+* Split 4 test Score: 99.72 %
+* Split 5 test Score: 99.72 %
+* Average test Score: 99.38 %
+
+
+Parameter 16. n_estimators: 16
+* Split 1 test Score: 98.86 %
+* Split 2 test Score: 99.72 %
+* Split 3 test Score: 99.15 %
+* Split 4 test Score: 99.72 %
+* Split 5 test Score: 99.72 %
+* Average test Score: 99.43 %
+
+
+Parameter 17. n_estimators: 17
+* Split 1 test Score: 98.58 %
+* Split 2 test Score: 99.72 %
+* Split 3 test Score: 98.86 %
+* Split 4 test Score: 99.72 %
+* Split 5 test Score: 99.72 %
+* Average test Score: 99.32 %
+
+
+Parameter 18. n_estimators: 18
+* Split 1 test Score: 98.58 %
+* Split 2 test Score: 99.72 %
+* Split 3 test Score: 99.15 %
+* Split 4 test Score: 99.72 %
+* Split 5 test Score: 99.72 %
+* Average test Score: 99.38 %
+
+
+Parameter 19. n_estimators: 19
+* Split 1 test Score: 98.58 %
+* Split 2 test Score: 99.72 %
+* Split 3 test Score: 99.15 %
+* Split 4 test Score: 99.72 %
+* Split 5 test Score: 99.72 %
+* Average test Score: 99.38 %
+
+
+[+] Best parameters: 
+* n_estimators: 14
+* Train data accuracy: 100.0%
+* Test data accuracy: 98.86%
+
+[+] Confusion matrix:
+
+[[23  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0]
+ [ 0 21  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0]
+ [ 0  0 20  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0 26  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0 27  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0 17  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0 17  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0 14  0  0  0  0  0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0 23  0  0  0  0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0 20  0  0  0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0 11  0  0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0  0 21  0  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0  0  0 19  0  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0  3  0  0 21  0  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0  0  0  0  0 19  0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 17  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 14  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 23  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 23  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 23  0  0]
+ [ 0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0 17  0]
+ [ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 19]]

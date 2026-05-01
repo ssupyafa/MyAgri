@@ -1,0 +1,57 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Playfair+Display:ital,wght@0,400;0,700;1,400&display=swap');
+@import "tailwindcss";
+
+@layer base {
+  :root {
+    --color-primary: #A3C148;
+    --color-bg: #0B110A;
+    --color-card: rgba(28, 33, 27, 0.8);
+    --color-text-heading: #F4F4F4;
+    --color-text-body: #A0A0A0;
+    --font-serif: 'Playfair Display', serif;
+    --font-sans: 'Inter', sans-serif;
+  }
+
+  body {
+    @apply bg-[#0B110A] text-[#A0A0A0] font-sans antialiased overflow-x-hidden;
+  }
+
+  h1, h2, h3, h4 {
+    @apply font-serif text-[#F4F4F4];
+  }
+}
+
+@layer components {
+  .glass-card {
+    @apply bg-[rgba(28,33,27,0.8)] backdrop-blur-xl border border-white/10 rounded-2xl shadow-2xl;
+  }
+
+  .btn-primary {
+    @apply bg-[#A3C148] text-[#0B110A] font-bold py-3 px-8 rounded-xl transition-all duration-300 hover:bg-[#B4D159] hover:shadow-[0_0_20px_rgba(163,193,72,0.4)] active:scale-95 disabled:opacity-50 disabled:cursor-not-allowed;
+  }
+
+  .input-field {
+    @apply bg-[#1C211B] border border-white/5 rounded-xl py-3 px-4 text-[#F4F4F4] focus:outline-none focus:ring-2 focus:ring-[#A3C148] focus:border-transparent transition-all placeholder:text-[#555];
+  }
+
+  .label-text {
+    @apply text-xs flex font-bold tracking-widest text-[#555] uppercase mb-2;
+  }
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  background: #0B110A;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #1C211B;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #333;
+}

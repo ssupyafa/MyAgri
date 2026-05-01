@@ -1,0 +1,15 @@
+.env
+database.db
+uploads/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+frontend/node_modules/
+frontend/dist/
+mobile_app_flutter/build/
+mobile_app_flutter/.dart_tool/
+mobile_app_flutter/.idea/
+Drought_Prediction/Models/
+Models/
+Models.zip
